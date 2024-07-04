@@ -1,4 +1,6 @@
-#This project utilizes the following Superstore data: 
+#This project utilizes the following Superstore data:
+
+#Good Day! Welcome to my first-ever SQL project!
 
 CREATE TABLE superstore (
     item_id INTEGER PRIMARY KEY,
